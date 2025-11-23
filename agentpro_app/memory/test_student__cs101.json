@@ -1,0 +1,32 @@
+{
+  "goals": [],
+  "weak_topics": [],
+  "strong_topics": [],
+  "last_queries": [
+    {
+      "query": "binary search trees",
+      "mode": "guide",
+      "timestamp": "2025-10-29T16:47:52.624725"
+    },
+    {
+      "query": "binary search trees",
+      "mode": "quiz",
+      "timestamp": "2025-10-29T16:48:39.455161"
+    },
+    {
+      "query": "binary search trees",
+      "mode": "flashcards",
+      "timestamp": "2025-10-29T16:50:01.373744"
+    }
+  ],
+  "quiz_history": [],
+  "mastery_scores": {},
+  "next_actions": [],
+  "study_streak": 3,
+  "created_at": "2025-10-29T16:47:52.624703",
+  "last_updated": "2025-10-29T16:50:01.373789",
+  "preferences": {
+    "difficulty": "medium",
+    "study_hours_per_day": 2
+  }
+}
