@@ -1,0 +1,55 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Environment Variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+studybuddy.db
+
+# Vector Store
+vectorstore/
+chroma/
+chroma_data/
+*.index
+
+# Uploads
+uploads/
+*.pdf
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Archives
+_archive_old_code/
+
+# OS
+Thumbs.db
+
+# Temporary
+tmp/
+temp/
+*.tmp
